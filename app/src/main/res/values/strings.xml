@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AdzanApp</string>
+    <string name="waktu_adzan_subuh">Adzan Subuh Time</string>
+    <string name="subuh">Subuh</string>
+    <string name="waktu_adzan_dzuhur">Adzan Dzuhur Time</string>
+    <string name="dzuhur">Dzuhur</string>
+    <string name="waktu_adzan_ashar">Adzan Ashar Time</string>
+    <string name="ashar">Ashar</string>
+    <string name="waktu_adzan_maghrib">Adzan Maghrib Time</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="waktu_adzan_isya">Adzan Isya Time</string>
+    <string name="isya">Isya</string>
+</resources>
